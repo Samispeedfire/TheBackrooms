@@ -1,0 +1,39 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Phone (4) to come 
+#
+newmtl mapped
+Ka  0.59 0.59 0.59
+Kd  0.59 0.59 0.59
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl buttons
+Ka  0.13 0.13 0.13
+Kd  0.13 0.13 0.13
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  0.00
+illum 2
+#
+newmtl base
+Ka  0.67 0.67 0.67
+Kd  0.67 0.67 0.67
+Ks  0.90 0.90 0.90
+d  1.00
+Ns  10.00
+illum 2
+#
+newmtl spkr
+Ka  0.67 0.67 0.67
+Kd  0.67 0.67 0.67
+Ks  1.00 1.00 1.00
+d  1.00
+Ns  10.00
+illum 2
+#
+# Multi/Sub Phone done 
+#
+# EOF

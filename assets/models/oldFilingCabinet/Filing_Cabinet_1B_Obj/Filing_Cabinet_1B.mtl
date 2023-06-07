@@ -1,0 +1,15 @@
+# Blender MTL File: 'Filing_Cabinet_1B_b.blend'
+# Material Count: 1
+
+newmtl BaseMat
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Filing_Cabinet_1B_Normal.png
+map_Kd Filing_Cabinet_1B_BaseColor_Green.png
+map_Ns Filing_Cabinet_1B_Roughness.png
